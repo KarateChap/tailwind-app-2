@@ -1,4 +1,5 @@
 import About from "./component/About";
+import AllInOne from "./component/AllInOne";
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 import Support from "./component/Support";
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <About />
       <Support />
+      <AllInOne />
     </>
   );
 }
